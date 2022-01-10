@@ -13,3 +13,4 @@ https://hozjr.github.io/TAH-workday-scheduler/
 
 ## Contribution
 Made with ❤️ by Tedd Hauser Jr.
+![image](https://user-images.githubusercontent.com/94255210/148720503-6de8074e-559a-4a7a-a9e8-932dd59833fc.png)
